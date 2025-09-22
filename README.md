@@ -59,20 +59,18 @@ SimpleCalculator/
   Not a valid choice! Please enter 1–5.
   ```
 - Invalid number:
+
   ```bash
   Not a valid number! Try again.
   ```
 
-  ```
 - Division by zero:
+
   ```bash
   Cannot divide by zero.
   ```
 
-  ```
 - Exceeding double range:
   ```bash
   Error: Number exceeds allowable range for double.
-  ```
-
   ```
