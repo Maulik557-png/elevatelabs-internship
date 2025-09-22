@@ -38,6 +38,7 @@ SimpleCalculator/
 
 ## Example Usage
 
+```bash
 --- Simple Calculator ---
 
 1. Addition
@@ -49,3 +50,29 @@ SimpleCalculator/
    Enter a value: 10
    Enter another value: 20
    Result: 30.0
+```
+
+## Error Handling Examples
+
+- Invalid choice:
+  ```bash
+  Not a valid choice! Please enter 1–5.
+  ```
+- Invalid number:
+  ```bash
+  Not a valid number! Try again.
+  ```
+
+  ```
+- Division by zero:
+  ```bash
+  Cannot divide by zero.
+  ```
+
+  ```
+- Exceeding double range:
+  ```bash
+  Error: Number exceeds allowable range for double.
+  ```
+
+  ```
